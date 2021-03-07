@@ -9,7 +9,6 @@
 </a>
 <br />
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning React Native
