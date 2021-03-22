@@ -5,7 +5,7 @@
   <img align="left" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://in.linkedin.com/in/laithalenooz">
-  <img align="left" alt="My Portfolio" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/3659/3659786.svg?token=exp=1615134781~hmac=3e06fd26645b992095d64c87ae71961d" />
+  <img align="left" alt="My Portfolio" width="22px" src="https://img.icons8.com/ios-filled/344/portfolio.png" />
 </a>
 <br />
 
