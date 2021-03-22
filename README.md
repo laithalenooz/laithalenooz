@@ -12,9 +12,8 @@
 
 
 - 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on anything that's interesting
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything!
 - 📫 How to reach me: laithalenooz@gmail.com
 
