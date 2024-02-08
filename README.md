@@ -11,8 +11,7 @@
 <br />
 
 
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning Ruby on Rails
+- 🔭 I’m currently working as Senior Backend Software Engineer
 - 👯 I’m looking to collaborate on anything that's interesting
 - 💬 Ask me about anything!
 - 📫 How to reach me: laithalenooz@gmail.com
@@ -21,5 +20,5 @@
 ### Details:
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Suheib Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=laithalenooz&show_icons=true&hide_border=true" />
+  <img align="left" alt="Laith Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=laithalenooz&show_icons=true&hide_border=true" />
 </details>
